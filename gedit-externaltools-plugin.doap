@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:gnome="http://api.gnome.org/doap-extensions#"
+         xmlns="http://usefulinc.com/ns/doap#">
+  <name xml:lang="en">gedit-externaltools-plugin</name>
+  <shortdesc xml:lang="en">Externaltools plugin for the gedit text editor</shortdesc>
+
+  <homepage rdf:resource="https://gedit-technology.github.io/apps/gedit/" />
+  <support-forum rdf:resource="https://discourse.gnome.org/tag/gedit" />
+  <download-page rdf:resource="http://download.gnome.org/sources/gedit/" />
+  <bug-database rdf:resource="https://gitlab.gnome.org/GNOME/gedit/issues/" />
+
+  <programming-language>C</programming-language>
+  <programming-language>Python</programming-language>
+
+  <!-- Former maintainers
+  <maintainer>
+    <foaf:Person>
+      <foaf:name>Sébastien Wilmet</foaf:name>
+      <foaf:mbox rdf:resource="mailto:swilmet@mailfence.com" />
+      <gnome:userid>swilmet</gnome:userid>
+    </foaf:Person>
+  </maintainer>
+  <maintainer>
+    <foaf:Person>
+      <foaf:name>Paolo Maggi</foaf:name>
+      <foaf:mbox rdf:resource="mailto:paolo@gnome.org" />
+      <gnome:userid>paolo</gnome:userid>
+    </foaf:Person>
+  </maintainer>
+  <maintainer>
+    <foaf:Person>
+      <foaf:name>Paolo Borelli</foaf:name>
+      <foaf:mbox rdf:resource="mailto:pborelli@gnome.org" />
+      <gnome:userid>pborelli</gnome:userid>
+    </foaf:Person>
+  </maintainer>
+  <maintainer>
+    <foaf:Person>
+      <foaf:name>Jesse van den Kieboom</foaf:name>
+      <foaf:mbox rdf:resource="mailto:jessevdk@gnome.org" />
+      <gnome:userid>jessevdk</gnome:userid>
+    </foaf:Person>
+  </maintainer>
+  <maintainer>
+    <foaf:Person>
+      <foaf:name>Ignacio Casal Quinteiro</foaf:name>
+      <foaf:mbox rdf:resource="mailto:icq@gnome.org" />
+      <gnome:userid>icq</gnome:userid>
+    </foaf:Person>
+  </maintainer>
+  <maintainer>
+    <foaf:Person>
+      <foaf:name>Jordi Mas</foaf:name>
+      <foaf:mbox rdf:resource="mailto:jmas@softcatala.org" />
+      <gnome:userid>jmas</gnome:userid>
+    </foaf:Person>
+  </maintainer>
+  <maintainer>
+    <foaf:Person>
+      <foaf:name>Jeremy Bicha</foaf:name>
+      <foaf:mbox rdf:resource="mailto:jbicha@ubuntu.com" />
+      <gnome:userid>jbicha</gnome:userid>
+    </foaf:Person>
+  </maintainer>
+  -->
+</Project>

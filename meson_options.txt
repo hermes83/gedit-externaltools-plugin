@@ -1,0 +1,10 @@
+# Include or exclude individual plugins.
+# By default they are all included (the default value is true).
+option('plugin_externaltools', type: 'boolean')
+
+# For developers. Disabling the option speeds up the install.
+option(
+  'user_documentation',
+  type: 'boolean', value: true,
+  description: 'Build user documentation'
+)
